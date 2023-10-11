@@ -13,7 +13,7 @@ html{
 
 body{
     align-items: center;
-    background: linear-gradient(340deg,#040D12, #183D3D, #5C8374), #93B1A6;
+    background: linear-gradient(340deg,#000000, #183D3D, #5C8374), #93B1A6;
     display: flex;
     font-family: "dosis", sans-serif;
     font-display: swap;
@@ -84,7 +84,7 @@ body{
     background: #232323;
 }
 .calc-button:last-child:hover{
-    background-color: inherit;
+    background-color: rgba(255, 255, 255, 0.50);
     color: inherit;
 }
 
@@ -94,7 +94,7 @@ body{
 }
 
 .calc-button:hover{
-    background-color: inherit;
+    background-color: rgba(255, 255, 255, 0.50);
 }
 
 .calc-button:active{
