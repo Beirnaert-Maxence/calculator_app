@@ -1,6 +1,8 @@
 Calculator Application
 
 This repository contains a simple calculator application implemented in JavaScript, HTML, and CSS. The calculator allows users to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division, as well as clear the display and use backspace functionality.
+
+
 Table of Contents
 
     Features
